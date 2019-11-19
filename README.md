@@ -8,5 +8,5 @@ Inconsolata and its PSF version are licensed under SIL Open Font License 1.1.
 
 ## Thanks
 
-This project has been forked from [xeechou/Inconsolata-psf](https://github.com/xeechou/Inconsolata-psf). Thank you Sichem Zhou for your work!
+This project has been forked from [xeechou/Inconsolata-psf](https://github.com/xeechou/Inconsolata-psf). Thank you Sichem for your work!
   
